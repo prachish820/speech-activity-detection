@@ -1,6 +1,7 @@
 # speech-activity-detection
 speech activity detection using bayes classifiers/
 /
+
 Details regarding the assignment can be found in cs669_assign1.pdf/
 /
 Install the following libraries:/
